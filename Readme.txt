@@ -5,7 +5,7 @@ TITA es una plataforma que te ayuda a mejorar la gestión de tu dinero, aprender
 -Frontend: HTML, CSS, JavaScript
 
 🚀 Cómo ejecutar el proyecto
--git clone https://github.com/Devone-12/TITA.git
+-git clone https://devone-12.github.io/TITA
 
 
 📞 Contacto
