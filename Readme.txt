@@ -1,6 +1,13 @@
-Thanks for downloading this template!
+-TITA
+TITA es una plataforma que te ayuda a mejorar la gestión de tu dinero, aprender a invertir y generar ingresos desde casa.
 
-Template Name: Bootslander
-Template URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+🛠️ Tecnologías utilizadas
+-Frontend: HTML, CSS, JavaScript
+
+🚀 Cómo ejecutar el proyecto
+-git clone https://github.com/Devone-12/TITA.git
+
+
+📞 Contacto
+-Desarrollador: Kevin
+-GitHub: Devone-12
